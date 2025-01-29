@@ -109,14 +109,14 @@ conversation.  Please read the [instructions](https://forum.hdfgroup.org/t/quick
 SNAPSHOTS, PREVIOUS RELEASES AND SOURCE CODE
 --------------------------------------------
 Periodically development code snapshots are provided at the following URL:
-    
+
    https://github.com/HDFGroup/hdf5/releases/tag/snapshot-1.14
 
 Source packages for current and previous releases are located at:
-    
+
    https://portal.hdfgroup.org/display/support/Downloads
 
 Development code is available at our Github location:
-    
+
    https://github.com/HDFGroup/hdf5.git
 
